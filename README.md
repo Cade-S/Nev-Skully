@@ -1,3 +1,4 @@
+##ALWAYS GET THE .GBC UNLESS EXPLCITELY TESTING FOR THE OG GAMEBOY.
 # Nev & Skully
   A puzzle platformer for the Gameboy Color. The game centers around you- Nev- and your 
 companion Skully. After being exiled from your people, go on a quest with your misfit
