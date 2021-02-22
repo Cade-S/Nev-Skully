@@ -1,4 +1,4 @@
-# Nev-Skully
+# Nev & Skully
   A puzzle platformer for the Gameboy Color. The game centers around you- Nev- and your 
 companion Skully. After being exiled from your people, go on a quest with your misfit
 buddy skully. As the story develops, the two of you realize that regardless of the 
